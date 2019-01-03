@@ -1,0 +1,21 @@
+1
+12
+123
+1234
+12345
+123456
+1234567
+12345678910
+12345678910a
+13432135
+hola tambien
+palabra
+
+
+#REGEX:
+- Un punto significa que encuentra TODO lo que sea un caracter. En este caso, todos los caracteres son selecionados si usamos (.)
+- '. ' Esto encuentra a  todos los caracteres que luego tengan un espacio.
+- '.....' Esto encuentra 5 caracteres juntos
+
+
+
